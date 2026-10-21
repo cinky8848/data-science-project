@@ -1,0 +1,139 @@
+﻿year,name,direction,persons,checkpoint
+2018,內港碼頭,in,210,Inner Harbour Pier
+2018,內港碼頭,out,115,Inner Harbour Pier
+2018,外港碼頭,in,7451979,Outer Harbour Terminal
+2018,外港碼頭,out,6564191,Outer Harbour Terminal
+2018,機場,in,3965309,Airport
+2018,機場,out,3831614,Airport
+2018,氹仔碼頭,in,4689222,Taipa Ferry Terminal
+2018,氹仔碼頭,out,3716549,Taipa Ferry Terminal
+2018,港珠澳大橋,in,1272918,HZMB Port
+2018,港珠澳大橋,out,941296,HZMB Port
+2018,珠澳跨境工業區,in,1182283,Cross-border Industrial Park
+2018,珠澳跨境工業區,out,1165594,Cross-border Industrial Park
+2018,路氹城,in,4906179,Hengqin Port (Macao Zone)
+2018,路氹城,out,4728147,Hengqin Port (Macao Zone)
+2018,關閘,in,66265795,Border Gate (Gongbei)
+2018,關閘,out,68736530,Border Gate (Gongbei)
+2019,內港碼頭,in,180,Inner Harbour Pier
+2019,內港碼頭,out,127,Inner Harbour Pier
+2019,外港碼頭,in,4351941,Outer Harbour Terminal
+2019,外港碼頭,out,4504381,Outer Harbour Terminal
+2019,機場,in,4593262,Airport
+2019,機場,out,4468407,Airport
+2019,氹仔碼頭,in,2969473,Taipa Ferry Terminal
+2019,氹仔碼頭,out,2920992,Taipa Ferry Terminal
+2019,港珠澳大橋,in,6799402,HZMB Port
+2019,港珠澳大橋,out,6500368,HZMB Port
+2019,珠澳跨境工業區,in,1297001,Cross-border Industrial Park
+2019,珠澳跨境工業區,out,1279016,Cross-border Industrial Park
+2019,路氹城,in,4916173,Hengqin Port (Macao Zone)
+2019,路氹城,out,4834625,Hengqin Port (Macao Zone)
+2019,關閘,in,72468241,Border Gate (Gongbei)
+2019,關閘,out,72903450,Border Gate (Gongbei)
+2020,內港碼頭,in,82654,Inner Harbour Pier
+2020,內港碼頭,out,74052,Inner Harbour Pier
+2020,外港碼頭,in,273295,Outer Harbour Terminal
+2020,外港碼頭,out,294405,Outer Harbour Terminal
+2020,機場,in,550845,Airport
+2020,機場,out,562908,Airport
+2020,氹仔碼頭,in,221102,Taipa Ferry Terminal
+2020,氹仔碼頭,out,208842,Taipa Ferry Terminal
+2020,港珠澳大橋,in,1380182,HZMB Port
+2020,港珠澳大橋,out,1421094,HZMB Port
+2020,珠澳跨境工業區,in,663688,Cross-border Industrial Park
+2020,珠澳跨境工業區,out,551209,Cross-border Industrial Park
+2020,路氹城,in,1832851,Hengqin Port (Macao Zone)
+2020,路氹城,out,1890278,Hengqin Port (Macao Zone)
+2020,關閘,in,29727860,Border Gate (Gongbei)
+2020,關閘,out,29818416,Border Gate (Gongbei)
+2021,內港及遊艇碼頭出入境事務站,in,262369,Inner Harbour Pier
+2021,內港及遊艇碼頭出入境事務站,out,236291,Inner Harbour Pier
+2021,外港碼頭出入境事務站,in,46868,Outer Harbour Terminal
+2021,外港碼頭出入境事務站,out,48459,Outer Harbour Terminal
+2021,機場出入境事務站,in,592804,Airport
+2021,機場出入境事務站,out,601741,Airport
+2021,橫琴口岸澳門口岸區出入境事務站,in,4080721,Hengqin Port (Macao Zone)
+2021,橫琴口岸澳門口岸區出入境事務站,out,4001806,Hengqin Port (Macao Zone)
+2021,氹仔碼頭出入境事務站,in,121966,Taipa Ferry Terminal
+2021,氹仔碼頭出入境事務站,out,99232,Taipa Ferry Terminal
+2021,港珠澳大橋出入境事務站,in,1448555,HZMB Port
+2021,港珠澳大橋出入境事務站,out,1419033,HZMB Port
+2021,珠澳跨境工業區出入境事務站,in,821889,Cross-border Industrial Park
+2021,珠澳跨境工業區出入境事務站,out,663372,Cross-border Industrial Park
+2021,關閘出入境事務站,in,44014460,Border Gate (Gongbei)
+2021,關閘出入境事務站,out,44330972,Border Gate (Gongbei)
+2021,青茂出入境事務站,in,1622165,Qingmao
+2021,青茂出入境事務站,out,1625652,Qingmao
+2022,內港及遊艇碼頭出入境事務站,in,264932,Inner Harbour Pier
+2022,內港及遊艇碼頭出入境事務站,out,245528,Inner Harbour Pier
+2022,外港碼頭出入境事務站,in,29634,Outer Harbour Terminal
+2022,外港碼頭出入境事務站,out,17284,Outer Harbour Terminal
+2022,機場出入境事務站,in,289373,Airport
+2022,機場出入境事務站,out,338353,Airport
+2022,橫琴口岸澳門口岸區出入境事務站,in,4187215,Hengqin Port (Macao Zone)
+2022,橫琴口岸澳門口岸區出入境事務站,out,4054196,Hengqin Port (Macao Zone)
+2022,氹仔碼頭出入境事務站,in,106178,Taipa Ferry Terminal
+2022,氹仔碼頭出入境事務站,out,100315,Taipa Ferry Terminal
+2022,港珠澳大橋出入境事務站,in,1284529,HZMB Port
+2022,港珠澳大橋出入境事務站,out,1251687,HZMB Port
+2022,珠澳跨境工業區出入境事務站,in,265719,Cross-border Industrial Park
+2022,珠澳跨境工業區出入境事務站,out,227639,Cross-border Industrial Park
+2022,關閘出入境事務站,in,36150611,Border Gate (Gongbei)
+2022,關閘出入境事務站,out,36930632,Border Gate (Gongbei)
+2022,青茂出入境事務站,in,6399408,Qingmao
+2022,青茂出入境事務站,out,5826911,Qingmao
+2023,內港及遊艇碼頭出入境事務站,in,585271,Inner Harbour Pier
+2023,內港及遊艇碼頭出入境事務站,out,535339,Inner Harbour Pier
+2023,外港碼頭出入境事務站,in,1608074,Outer Harbour Terminal
+2023,外港碼頭出入境事務站,out,1481332,Outer Harbour Terminal
+2023,機場出入境事務站,in,2609002,Airport
+2023,機場出入境事務站,out,2621231,Airport
+2023,橫琴口岸澳門口岸區出入境事務站,in,8506894,Hengqin Port (Macao Zone)
+2023,橫琴口岸澳門口岸區出入境事務站,out,8277107,Hengqin Port (Macao Zone)
+2023,氹仔碼頭出入境事務站,in,2326788,Taipa Ferry Terminal
+2023,氹仔碼頭出入境事務站,out,2235280,Taipa Ferry Terminal
+2023,港珠澳大橋出入境事務站,in,11509209,HZMB Port
+2023,港珠澳大橋出入境事務站,out,10963768,HZMB Port
+2023,珠澳跨境工業區出入境事務站,in,187136,Cross-border Industrial Park
+2023,珠澳跨境工業區出入境事務站,out,205217,Cross-border Industrial Park
+2023,關閘出入境事務站,in,49875320,Border Gate (Gongbei)
+2023,關閘出入境事務站,out,50965349,Border Gate (Gongbei)
+2023,青茂出入境事務站,in,14250640,Qingmao
+2023,青茂出入境事務站,out,14078646,Qingmao
+2024,內港及遊艇碼頭出入境事務站,in,720292,Inner Harbour Pier
+2024,內港及遊艇碼頭出入境事務站,out,649879,Inner Harbour Pier
+2024,外港碼頭出入境事務站,in,1697507,Outer Harbour Terminal
+2024,外港碼頭出入境事務站,out,1506898,Outer Harbour Terminal
+2024,機場出入境事務站,in,3723320,Airport
+2024,機場出入境事務站,out,3763562,Airport
+2024,橫琴口岸澳門口岸區出入境事務站,in,11456698,Hengqin Port (Macao Zone)
+2024,橫琴口岸澳門口岸區出入境事務站,out,11358254,Hengqin Port (Macao Zone)
+2024,氹仔碼頭出入境事務站,in,2561195,Taipa Ferry Terminal
+2024,氹仔碼頭出入境事務站,out,2462023,Taipa Ferry Terminal
+2024,港珠澳大橋出入境事務站,in,13477846,HZMB Port
+2024,港珠澳大橋出入境事務站,out,12696767,HZMB Port
+2024,珠澳跨境工業區出入境事務站,in,201961,Cross-border Industrial Park
+2024,珠澳跨境工業區出入境事務站,out,221027,Cross-border Industrial Park
+2024,關閘出入境事務站,in,56170510,Border Gate (Gongbei)
+2024,關閘出入境事務站,out,57123520,Border Gate (Gongbei)
+2024,青茂出入境事務站,in,17425046,Qingmao
+2024,青茂出入境事務站,out,17664452,Qingmao
+2025,內港及遊艇碼頭出入境事務站,in,824057,Inner Harbour Pier
+2025,內港及遊艇碼頭出入境事務站,out,729148,Inner Harbour Pier
+2025,外港碼頭出入境事務站,in,1556881,Outer Harbour Terminal
+2025,外港碼頭出入境事務站,out,1279837,Outer Harbour Terminal
+2025,機場出入境事務站,in,3656702,Airport
+2025,機場出入境事務站,out,3646349,Airport
+2025,橫琴口岸澳門口岸區出入境事務站,in,15224441,Hengqin Port (Macao Zone)
+2025,橫琴口岸澳門口岸區出入境事務站,out,15123510,Hengqin Port (Macao Zone)
+2025,氹仔碼頭出入境事務站,in,2447475,Taipa Ferry Terminal
+2025,氹仔碼頭出入境事務站,out,2376701,Taipa Ferry Terminal
+2025,港珠澳大橋出入境事務站,in,14317418,HZMB Port
+2025,港珠澳大橋出入境事務站,out,13639754,HZMB Port
+2025,珠澳跨境工業區出入境事務站,in,206109,Cross-border Industrial Park
+2025,珠澳跨境工業區出入境事務站,out,209719,Cross-border Industrial Park
+2025,關閘出入境事務站,in,62156969,Border Gate (Gongbei)
+2025,關閘出入境事務站,out,62084145,Border Gate (Gongbei)
+2025,青茂出入境事務站,in,17554551,Qingmao
+2025,青茂出入境事務站,out,18801713,Qingmao
